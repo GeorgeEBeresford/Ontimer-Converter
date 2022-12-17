@@ -1,3 +1,5 @@
+Archived as no further changes will be made to the repository. Other developers are welcome to fork the repository and implement changes
+
 # Ontimer Converter for Makermodule
 
 ## Introduction
